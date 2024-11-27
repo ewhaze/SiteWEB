@@ -1,0 +1,17 @@
+.navbar-colGauche{
+    background-color: #e8ca9b;
+}
+
+.navbar-colCentre {
+    background: rgb(232,202,155);
+    background: linear-gradient(90deg, rgba(232,202,155,1) 0%, rgba(255,223,171,1) 75%, rgba(177,242,255,1) 100%);;
+}
+
+.navbar-colDroite{
+    background-color: #b1f2ff;
+}
+
+.dashboard{
+    background-color: #c7ae86;
+}
+
